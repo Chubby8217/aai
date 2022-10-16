@@ -26,7 +26,7 @@ body{
 <div id="love">
 
 <div class="step box" data-x="0" data-y="0">
-<p>This is my first slide!!</p>
+<p>i love u akii maa !!</p>
 </div>
 
 <div class="step box" data-x="0" data-y="1000">
